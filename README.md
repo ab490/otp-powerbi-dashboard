@@ -71,10 +71,10 @@ The five filters available for refining the view are
 
 #### OTP for East Direction Routes on Weekday Nights  
 <img src="/images/page_3_filter_1.png"><br>
-**Insight:** Most trips arrive on time, with very few early arrivals and almost no late arrivals.
+Most trips arrive on time, with very few early arrivals and almost no late arrivals.
 
 #### OTP for Red Line Coverage Type on Saturday Afternoons  
 <img src="/images/page_3_filter_2.png"><br>
-**Insight:** A significant number of trips arrive late during this time frame.
+A significant number of trips arrive late during this time frame.
 
 ---
