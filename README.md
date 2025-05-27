@@ -19,8 +19,8 @@ Public transit reliability is important and directly impacts rider trust in the 
   - What is the difference in OTP during peak vs. non-peak hours?
 
 - **Dataset:**
-The dataset comprises of GPS tracker data (vehicle locations and adherence metrics), APC records (boarding/alighting counts per stop), and schedule adherence logs (planned vs. actual departure/arrival times). This dataset was structured into two types of relational tables:
-(i) Fact tables that capture quantitative metrics like delay minutes and passenger volumes.
+The dataset comprises of GPS tracker data (vehicle locations and adherence metrics), APC records (boarding/alighting counts per stop), and schedule adherence logs (planned vs. actual departure/arrival times). This dataset was structured into two types of relational tables:<br>
+(i) Fact tables that capture quantitative metrics like delay minutes and passenger volumes.<br>
 (ii) Dimension tables that capture attributes like route types and stop location.
 
 Initial data preprocessing was done including exploratory data analysis (EDA) to summarize record counts, identify null values, compute averages and assess data completeness. All data was uploaded into PostgreSQL and custom SQL queries were executed using common table expressions and relational joins across fact and dimension tables. 
