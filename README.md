@@ -1,6 +1,6 @@
 # Bus Transit On-Time Performance (OTP) Power BI Dashboard
 
-Public transit reliability is crucial for urban mobility, directly impacting rider trust and equitable access. Transit agencies often struggle to adhere to schedules due to factors like traffic, operational inefficiencies, and unpredictable demand patterns. To address these challenges and strengthen transparency, we develop an On-Time Performance (OTP) Dashboard. This tool analyzes schedule adherence, delays by route/time, and historical trends using GPS trackers, passenger counters, and schedule data. By answering critical questions like peak-hour OTP variations and route reliability, the dashboard empowers riders, planners, and advocates to identify challenges and drive data-informed service improvements. 
+Public transit reliability is crucial for urban mobility, directly impacting rider trust and equitable access. Transit agencies often struggle to adhere to schedules due to factors like traffic, operational inefficiencies, and unpredictable demand patterns. To address these challenges and strengthen transparency, an On-Time Performance (OTP) Dashboard is developed. This tool analyzes schedule adherence, delays by route/time, and historical trends using GPS trackers, passenger counters, and schedule data. By answering critical questions like peak-hour OTP variations and route reliability, the dashboard empowers riders, planners, and advocates to identify challenges and drive data-informed service improvements. 
 
 ---
 
