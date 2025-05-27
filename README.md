@@ -76,5 +76,3 @@ Most trips arrive on time, with very few early arrivals and almost no late arriv
 #### OTP for Red Line Coverage Type on Saturday Afternoons  
 <img src="/images/page_3_filter_2.png"><br>
 A significant number of trips arrive late during this time frame.
-
----
